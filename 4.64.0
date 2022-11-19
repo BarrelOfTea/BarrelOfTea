@@ -1,0 +1,2 @@
+Requirement already satisfied: tqdm in c:\users\танос\appdata\roaming\python\python38\site-packages (4.64.1)
+Requirement already satisfied: colorama; platform_system == "Windows" in c:\programdata\anaconda3\lib\site-packages (from tqdm) (0.4.4)
